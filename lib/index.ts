@@ -1,0 +1,2 @@
+const getDevices = () => [];
+export {getDevices};

@@ -1,0 +1,24 @@
+{
+  "name": "dualshock-disable",
+  "version": "1.0.0",
+  "description": "A mock dualshock library",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk89/dualshock-disable.git"
+  },
+  "author": "Jonathan Kelsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jk89/dualshock-disable/issues"
+  },
+  "homepage": "https://github.com/jk89/dualshock-disable#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
